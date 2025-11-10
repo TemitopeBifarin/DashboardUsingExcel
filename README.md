@@ -1,13 +1,13 @@
 # Furniture Sales Overview Dashboard
 ## Table of Contents
--[Project Overview].(#project-overview).
--[Dataset Description].(#dataset-description).
--[Business Objectives].(#business-objectives).
--[Key Insights].(#key-insights).
--[Dashboard Components].(#dashboard-components).
--[Tools and Techniques Used].(#tools-and-techniques-used).
--[Analytical Insights].(#analytical-insights).
--[Conclusion].(#conclusion).
+ # Project Overview
+ # Dataset Description
+ # Business Objectives
+ # Key Insights
+ # Dashboard Components
+ # Tools and Techniques Used
+ # Analytical Insights
+ # Conclusion
 
 ## Project Overview
 The Furniture Sales Overview Dashboard is a comprehensive analytical tool that presents key insights into sales performance, shipping patterns, and regional distribution across the United States. The dashboard was developed using Microsoft Excel and integrates dynamic charts, key performance indicators, and interactive filters. Its purpose is to help business stakeholders and decision-makers understand trends, identify opportunities, and improve performance through data visualization.
@@ -34,17 +34,21 @@ Fourth, it highlights regional sales distribution to determine which states and 
 Finally, it helps management make informed decisions through concise and data-driven insights.
 
 ## Key Insights
--Overall Performance
+ # Overall Performance
 Sales amounted to 215.4 thousand dollars, representing an eight percent increase from the previous year. A total of 2.4 thousand units were sold, reflecting an eleven percent increase in quantity. However, total profit decreased to 3.0 thousand dollars, a decline of fifty-seven percent year over year.
 The data suggests that while the company achieved sales growth and higher order volume, operational costs or discounting strategies might have negatively affected profitability.
--Sales Trend
+
+ # Sales Trend
 The highest sales month was December, with 121.82 thousand dollars in revenue. Sales performance showed consistent improvement through the year with notable growth in the last quarter. This pattern suggests strong end-of-year consumer demand, possibly driven by holiday-related purchases.
--Shipping Analysis
+
+ # Shipping Analysis
 Standard Class was the most used shipping method, accounting for fifty-nine percent of all orders. Second Class represented fifteen percent, First Class twenty percent, and Same Day six percent.
 Most orders, about twenty-eight percent, were delivered within four days. The majority of shipments arrived between four and five days, showing that delivery operations are generally efficient and consistent with customer expectations.
--Product Category Performance
+
+ # Product Category Performance
 Chairs generated the highest sales with 328.4 thousand dollars, followed by Tables with 207.0 thousand dollars, Bookcases with 114.9 thousand dollars, and Furnishings with 91.7 thousand dollars. Chairs clearly represent the strongest product category and provide the largest contribution to total sales.
--Regional and City-Level Performance
+
+ # Regional and City-Level Performance
 California recorded the highest sales among all states with 156.1 thousand dollars.
 New York City led at the city level with 75.7 thousand dollars, followed by Los Angeles with 54.0 thousand, Seattle with 41.0 thousand, San Francisco with 36.4 thousand, and Philadelphia with 36.5 thousand.
 The data shows that urban centers, particularly in the East and West regions, generate the majority of revenue.
